@@ -2,3 +2,12 @@ html, body {
   height: 100%;
   width: 100%;
 }
+*{
+  margin: 4px;
+}
+.recuo {
+  text-indent:25px ;
+}
+/*p {
+  text-indent:25px ;
+}*/
